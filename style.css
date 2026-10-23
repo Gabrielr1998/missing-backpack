@@ -1,0 +1,34 @@
+ body {
+    background-color: #eef2f7;
+    color: #253247;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 850px;
+    margin: 40px auto;
+    padding: 25px;
+}
+
+h1 {
+    color: #183b66;
+    font-size: 36px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    max-height: 350px;
+    border-radius: 10px;
+}
+
+a {
+    color: #1557a0;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #923c13;
+    text-decoration: none;
+}
